@@ -36,7 +36,7 @@ Our development stack spans core system programming, modern web development, and
 | :--- | :--- | :--- |
 | **Ahmed Dhaavoodhu Ali** | Founder | VC / UWE |
 | **Aishath Livaa Ahmed** | Founder | VC / UWE |
-| **Aisath Nausheen Waseem** | Founder | VC / UWE |
+| **Aishath Nausheen Waseem** | Founder | VC / UWE |
 
 ---
 
